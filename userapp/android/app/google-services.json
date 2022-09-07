@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375357053678",
+    "project_id": "hamza-intallment",
+    "storage_bucket": "hamza-intallment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375357053678:android:0accb691ef042d266171ff",
+        "android_client_info": {
+          "package_name": "com.hamza.installmentapp.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375357053678-6oequc3equ0chlpmf4doe8oj8buumd7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGrw9qPbgK9tGLfhCtvOXEhg9XXQZs-2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375357053678-6oequc3equ0chlpmf4doe8oj8buumd7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
